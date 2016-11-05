@@ -1,2 +1,2 @@
 # hello-world
-I love the world,every one should love eather other.
+I love the world,every one should love each other.
